@@ -8,10 +8,10 @@ and if others enjoy it, then all the better.
 
 I use this with the Solarized theme with gnome-terminal and KDE’s konsole.
 
-[irssi]:                    http://www.irssi.org/
-[Solarized]:                http://ethanschoonover.com/solarized
-[Solarized Gnome-terminal]: https://github.com/Anthony25/gnome-terminal-colors-solarized
-(This will be [default](http://fedoramagazine.org/fedora-21-will-feature-solarized-color-schemes-in-both-the-terminal-and-gedit/) in Fedora 21 GNOME )
+[irssi](http://www.irssi.org/)
+[Solarized](http://ethanschoonover.com/solarized)
+[Solarized Gnome-terminal](https://github.com/Anthony25/gnome-terminal-colors-solarized)
+Note: This will be [default](http://fedoramagazine.org/fedora-21-will-feature-solarized-color-schemes-in-both-the-terminal-and-gedit/) in Fedora 21 GNOME
 
 Solarized has been available by default in KDE for years.
 
