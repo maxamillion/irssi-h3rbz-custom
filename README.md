@@ -51,6 +51,6 @@ Installation
             ...
         };
         hilights = (
-                { text = "YOUR_NICKNAME"; color = "%M"; nick = "yes"; word = "yes"; }
+                { text = "YOUR_NICKNAME"; color = "%R"; nick = "yes"; word = "yes"; }
         );
 
